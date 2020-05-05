@@ -1,1 +1,1 @@
-**Spam Classifier with Naive Bayes **
+**Spam Classifier with Naive Bayes**
